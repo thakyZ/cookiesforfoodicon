@@ -1,0 +1,14 @@
+{
+  "gfx": {
+    "interface": {
+      "icons": {
+        "resources": {
+          "food_grey": true,
+          "food_market_large": true,
+          "food_market": true,
+          "food": true
+        }
+      }
+    }
+  }
+}

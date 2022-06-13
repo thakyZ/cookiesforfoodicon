@@ -1,0 +1,25 @@
+{
+  "name": "cookiesforfoodicon-node",
+  "version": "1.0.1",
+  "description": "A mod I whipped up together to make food into cookies.",
+  "main": "index.js",
+  "scripts": {
+    "build": "index.js",
+    "test": "index.js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thakyZ/cookiesforfoodicon.git"
+  },
+  "keywords": [
+    "stellaris",
+    "games",
+    "modification"
+  ],
+  "author": "Neko Boi Nick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thakyZ/cookiesforfoodicon/issues"
+  },
+  "homepage": "https://github.com/thakyZ/cookiesforfoodicon#readme"
+}
